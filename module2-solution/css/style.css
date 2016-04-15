@@ -20,7 +20,7 @@ p {
 
 /* Simple Responsive Framework. */
 .row {
-  text-align: center;
+  margin: auto;
   width: 100%;
 }
 
