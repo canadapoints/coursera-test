@@ -10,6 +10,7 @@ h1 {
 p.beef {
   border: 1px solid black;
   background-color: #A52A2A;
+  font-weight:bold;
   text-align: center;
   width: 20%;
   height: 10%;
@@ -22,6 +23,7 @@ p.beef {
 
 p.chicken {
   border: 1px solid black;
+  font-weight:bold;
   text-align: center;
   background-color: blue;
   width: 20%;
@@ -35,6 +37,7 @@ p.chicken {
 
 p.pork {
   border: 1px solid black;
+  font-weight:bold;
   text-align: center;
   background-color: green;
   width: 20%;
