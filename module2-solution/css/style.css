@@ -155,7 +155,8 @@ div>div{
     width: 91.66%;
   }
   .col-md-12 {
-    width: 94%;
+    width: 94%; 
+    margin-left:1%;
   }
 }
 /********** Mobile devices only **********/
