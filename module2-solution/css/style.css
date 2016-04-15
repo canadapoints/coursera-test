@@ -156,6 +156,8 @@ div>div{
   }
   .col-md-12 {
     width: 100%;
+    margin-right:2%;
+    margin-left: 2%;
   }
 }
 /********** Mobile devices only **********/
