@@ -5,7 +5,6 @@
 h1 {
   text-align: center;
   margin-bottom: 15px;
-  background-color: lightblue;
 }
 
 p {
@@ -23,7 +22,6 @@ p {
 .row {
   margin: auto;
   width: 100%;
-  background-color: lightblue;
 }
 
 /********** Large devices only **********/
