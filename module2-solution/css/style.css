@@ -53,6 +53,7 @@ div>div{
   .col-lg-4 {
     width: 30%;
     margin-right: 1%;
+    margin-bottom: 5px;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -104,6 +105,7 @@ div>div{
   .col-md-6 {
     width: 45%;
     margin-right:2%;
+    margin-bottom: 5px;
   }
   .col-md-7 {
     width: 58.33%;
@@ -132,6 +134,7 @@ div>div{
   }
   .col-sd-12 {
     width: 100%;
+    margin-bottom: 5px;
   }
   
 }
