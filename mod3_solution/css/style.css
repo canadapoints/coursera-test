@@ -11,6 +11,6 @@
 }
 
 .sushi {
-   color:white;
+   color:white !important;
    background-color:green;
 }
